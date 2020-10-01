@@ -11,3 +11,4 @@ Hi I am Jay Patel, a 19 year old Web Developer, Cyber Security enthusiast living
 - [Facebook](https://www.facebook.com/jayvpatel112) 😏
 - [Website](https://jaypatel.family) 😏🔗
 
+![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jayvpatel112&show_icons=true&theme=gradient)
