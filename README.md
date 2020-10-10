@@ -1,6 +1,7 @@
 <h2 align="center"> Hi there! My Name is Jay Patel 👋</h2>
-
+<!--
 ![](https://komarev.com/ghpvc/?username=jayvpatel112&color=green)
+-->
 <p>
 Hi I am Jay Patel, a 19 year old Web Developer, Cyber Security enthusiast living in Gujarat, India. I am currently studying Computer Science and Engineering at Raksha Shakti University, Gandhinagar, Gujarat.I’m currently learning javascript🌱.
 </p>
